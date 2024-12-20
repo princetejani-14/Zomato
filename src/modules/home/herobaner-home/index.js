@@ -23,6 +23,7 @@ export default function Herobanerhome() {
                     <p>Add restaurant</p>
                     <p>Log in</p>
                     <p>Sign up</p>
+                    <p>drfhfdcbfh</p>
                 </div>
                 <div className='herobaner_text_center text-center'>
                     <div className='herobaner_text_center_top'>
