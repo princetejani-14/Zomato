@@ -12,6 +12,7 @@ export default function Countrybox() {
                 <div className='countrybox_main_right flex items-center w-[116px]'>
                     <img src={logo2} className='w-[23px] h-[15px]' />
                     <p>UAE</p>
+                    <p>fghvsfui</p>
                 </div>
 
             </div>
